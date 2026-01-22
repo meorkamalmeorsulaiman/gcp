@@ -1,1 +1,4 @@
 scripts/
+*.tfstate
+*.hcl
+*/.terraform/*
